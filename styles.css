@@ -1,0 +1,40 @@
+.header{
+     background: #0074D9;
+    padding: 10px;
+    color: white;
+    text-align:center;
+    }
+
+.picture{
+    width:40%;
+    border:10px solid red;
+     text-align:center;
+    
+    }
+
+.middle{
+    display:flex;
+    }
+
+.text{
+    background-color:white;
+    width:20%;
+    }
+
+.bottom{
+     background: #0074D9;
+    padding: 10px;
+    color: white;
+    text-align:center;
+    }
+
+.picture2{
+    width:40%;
+     border:10px solid red;
+      text-align:center;
+    }
+img {
+    width:500px;
+    height:250px;
+    
+    }
